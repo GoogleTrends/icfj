@@ -1,0 +1,187 @@
+question,dictNumber,desc
+prevExp,1,Working in Digital Media
+prevExp,2,Using Mobile Tech
+prevExp,3,Publishing Across Platforms
+prevExp,4,Creating Data Visualizations
+prevExp,5,Using Content Management Systems
+prevExp,6,Using Data Analytics
+prevExp,7,None
+jobResp,1,Digital News Production
+jobResp,2,Digital Photography
+jobResp,3,Audio Production and Editing
+jobResp,4,Video Production and Editing
+jobResp,5,Podcast Production
+jobResp,6,Blogging
+jobResp,7,Mobile and Backpack Reporting
+jobResp,8,Digital Tools to Verify Information
+jobResp,9,Data Journalism
+jobResp,10,Data Visualization 
+jobResp,11,Multimedia Reporting and Editing
+jobResp,12,Multiplatform Story Production and Distribution
+jobResp,13,Live Video
+jobResp,14,VR / 360
+jobResp,15,Graphics  
+jobResp,16,Posting Stories on Social Media
+jobResp,17,Audience Engagement on Social Media
+jobResp,18,"Website Design, Development, and Management"
+jobResp,19,CMS Management and Coding
+jobResp,20,Digital Tool/App Development for Newsrooms
+jobResp,21,Analytics to Drive News Agenda
+jobResp,22,Analytics to Measure Audience Engagement
+jobResp,23,Troubleshooting
+jobResp,24,Cybersecurity
+jobResp,25,Promoting My Work and Developing My Brand
+training,1,Photojournalism
+training,2,Digital News
+training,3,Blogging
+training,4,Data Journalism
+training,5,Multimedia Reporting  
+training,6,Using Digital Tools
+training,7,Using Digital Tools for Verification
+training,8,Multiplatform Story Production  
+training,9,Real-time Reporting
+training,10,Mobile and Backpack Reporting
+training,11,Building Digital Tools/Apps
+training,12,Posting Stories on Social Media
+training,13,Crowdsourcing
+training,14,Podcast Production
+training,15,Graphics
+training,16,"Web Coding, Design, and Development"
+training,17,Search Engine Optimization
+training,18,Using Analytics
+training,19,Cybersecurity
+training,20,Collaboration Across Newsroom
+training,21,Our organization Does Not Offer Tech Training
+training,22,I Do Not Need Tech Training
+research,1,Instant Messaging or Chat Apps
+research,2,Audio and Call Recording App
+research,3,Photography App
+research,4,Social Media App
+research,5,Social Media Management App
+research,6,Note-Taking App
+research,7,Data Analysis and Visualization Tools
+research,8,Mapping Tools
+research,9,File Management App
+research,10,Content Capture App
+research,11,Publishing Analytic Tool
+research,12,Archiving App
+research,13,None
+research,14,Other
+gathering,1,Facebook
+gathering,2,Twitter
+gathering,3,Google
+gathering,4,Snapchat
+gathering,5,Instagram
+gathering,6,Xing
+gathering,7,Other Social Media
+gathering,8,Discussion Boards
+gathering,9,Search Engines
+gathering,10,Video Sites
+gathering,11,Live Video
+gathering,12,Blogs
+gathering,13,Social Verification Sites
+gathering,14,Digital Archives
+gathering,15,Crowdsourcing
+gathering,16,RSS Feeds
+gathering,17,Digital Newsletter
+gathering,18,instant Messenger
+gathering,19,Skype
+gathering,20,Email
+gathering,21,Analytics Resource
+engage,1,Search Engines
+engage,2,Social Media
+engage,3,Discussion Boards
+engage,4,Video Sites
+engage,5,Live Video
+engage,6,Virtual Reality
+engage,7,Digital Archives
+engage,8,Crowdsourcing
+engage,9,RSS Feeds
+engage,10,Audience Engagement Platforms
+engage,11,Instant Messaging Apps
+engage,12,Digital Newsletters
+engage,13,Email
+engage,14,None
+engage,15,Other
+socialMedia,1,Find Ideas for Stories
+socialMedia,2,Check for Breaking News
+socialMedia,3,Find Sources
+socialMedia,4,Interview Sources
+socialMedia,5,Competitive Research
+socialMedia,6,Keep in Touch with Your Audience
+socialMedia,7,Get Information
+socialMedia,8,Find Social Content to Add to Stories
+socialMedia,9,Monitor Discussions your News Stories
+socialMedia,10,Comment on Social Networks
+socialMedia,11,Reply to Comments on Social Networks
+socialMedia,12,Follow People in Your Field
+degree,1,Journalism
+degree,2,Technology
+degree,3,College
+degree,4,Advanced
+security,1,Open PGP
+security,2,Email Encryption
+security,3,Chat Encryption
+security,4,Phone Call Encryption
+security,5,Video Conference Encryption
+security,6,None
+security,7,Other
+metrics,1,Audience Demographics
+metrics,2,Page Views
+metrics,3,Bounce Rate
+metrics,4,Reach
+metrics,5,Click- Through Rate
+metrics,6,Unique Users
+metrics,7,Visitors
+metrics,8,Time Spent
+metrics,9,Engaged Time
+metrics,10,Scroll Depth
+metrics,11,Concurrent Visits
+metrics,12,Conversion Rate
+metrics,13,Entry Rate
+metrics,14,Recirculation
+metrics,15,Exit Page
+metrics,16,Direct Traffic
+metrics,17,Referred Traffic
+metrics,18,Time of Day
+metrics,19,Platform
+metrics,20,Places
+metrics,21,Social Shares
+metrics,22,None
+metrics,23,Other
+frequency,0,Never
+frequency,1,Rarely
+frequency,2,Sometimes
+frequency,3,Regularly
+newsroom,1,Hybrid
+newsroom,2,Freelance
+newsroom,3,Tech
+newsroom,4,Digital 
+newsroom,5,Other
+newsroom,6,Traditional
+newsroom,7,NA
+position,1,A/V professional
+position,2,analytics editor
+position,3,Digital producers/editor
+position,4,Editorial writer
+position,5,News editor
+position,6,news writer
+position,7,null
+position,8,reporter
+position,9,social media editor
+position,10,tech professional
+researchFreq,1,Social Networking Sites (Facebook)
+researchFreq,2,Microblogs (Twitter)
+researchFreq,3,Professional social networking sites (LinkedIn)
+researchFreq,4,Audiovisual Sites (YouTube)
+researchFreq,5,"Live Social Media Video Feeds (Periscope, Facebook Live)"
+researchFreq,6,Instant Messaging Apps (WhatsApp)
+researchFreq,7,Crowdsourcing
+researchFreq,8,Crowdsourcing
+engageFreq,1,Social Networking Sites (Facebook)
+engageFreq,2,Microblogs (Twitter)
+engageFreq,3,Professional Social Networking Sites (LinkedIn)
+engageFreq,4,Audiovisual Sites (YouTube)
+engageFreq,5,Instant Messaging Apps (WhatsApp)
+engageFreq,6,Crowdsourcing
+engageFreq,7,Crowdsourcing
