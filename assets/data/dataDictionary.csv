@@ -3,7 +3,7 @@ prevExp,1,Working in Digital Media
 prevExp,2,Using Mobile Tech
 prevExp,3,Publishing Across Platforms
 prevExp,4,Creating Data Visualizations
-prevExp,5,Using Content Management Systems
+prevExp,5,Content Management Systems
 prevExp,6,Using Data Analytics
 prevExp,7,None
 jobResp,1,Digital News Production
@@ -16,28 +16,28 @@ jobResp,7,Mobile and Backpack Reporting
 jobResp,8,Digital Tools to Verify Information
 jobResp,9,Data Journalism
 jobResp,10,Data Visualization 
-jobResp,11,Multimedia Reporting and Editing
-jobResp,12,Multiplatform Story Production and Distribution
+jobResp,11,Reporting & Editing
+jobResp,12,Production & Distribution
 jobResp,13,Live Video
 jobResp,14,VR / 360
 jobResp,15,Graphics  
 jobResp,16,Posting Stories on Social Media
-jobResp,17,Audience Engagement on Social Media
-jobResp,18,"Website Design, Development, and Management"
+jobResp,17,Audience Engagement
+jobResp,18,Web Design & Development
 jobResp,19,CMS Management and Coding
-jobResp,20,Digital Tool/App Development for Newsrooms
+jobResp,20,App Development for Newsrooms
 jobResp,21,Analytics to Drive News Agenda
-jobResp,22,Analytics to Measure Audience Engagement
+jobResp,22,Audience Engagement Analytics
 jobResp,23,Troubleshooting
 jobResp,24,Cybersecurity
-jobResp,25,Promoting My Work and Developing My Brand
+jobResp,25,Promoting My Work
 training,1,Photojournalism
 training,2,Digital News
 training,3,Blogging
 training,4,Data Journalism
 training,5,Multimedia Reporting  
 training,6,Using Digital Tools
-training,7,Using Digital Tools for Verification
+training,7,Digital Tools for Verification
 training,8,Multiplatform Story Production  
 training,9,Real-time Reporting
 training,10,Mobile and Backpack Reporting
@@ -46,20 +46,20 @@ training,12,Posting Stories on Social Media
 training,13,Crowdsourcing
 training,14,Podcast Production
 training,15,Graphics
-training,16,"Web Coding, Design, and Development"
+training,16,Web Design & Development
 training,17,Search Engine Optimization
 training,18,Using Analytics
 training,19,Cybersecurity
 training,20,Collaboration Across Newsroom
-training,21,Our organization Does Not Offer Tech Training
+training,21,None Offered
 training,22,I Do Not Need Tech Training
 research,1,Instant Messaging or Chat Apps
 research,2,Audio and Call Recording App
 research,3,Photography App
 research,4,Social Media App
-research,5,Social Media Management App
+research,5,Social Media Management
 research,6,Note-Taking App
-research,7,Data Analysis and Visualization Tools
+research,7,Data Analysis Tools
 research,8,Mapping Tools
 research,9,File Management App
 research,10,Content Capture App
@@ -97,7 +97,7 @@ engage,6,Virtual Reality
 engage,7,Digital Archives
 engage,8,Crowdsourcing
 engage,9,RSS Feeds
-engage,10,Audience Engagement Platforms
+engage,10,Engagement Platforms
 engage,11,Instant Messaging Apps
 engage,12,Digital Newsletters
 engage,13,Email
@@ -108,12 +108,12 @@ socialMedia,2,Check for Breaking News
 socialMedia,3,Find Sources
 socialMedia,4,Interview Sources
 socialMedia,5,Competitive Research
-socialMedia,6,Keep in Touch with Your Audience
+socialMedia,6,Keep in Touch with Audience
 socialMedia,7,Get Information
-socialMedia,8,Find Social Content to Add to Stories
-socialMedia,9,Monitor Discussions your News Stories
+socialMedia,8,Find Content for Stories
+socialMedia,9,Monitor Discussions
 socialMedia,10,Comment on Social Networks
-socialMedia,11,Reply to Comments on Social Networks
+socialMedia,11,Reply to Comments
 socialMedia,12,Follow People in Your Field
 degree,1,Journalism
 degree,2,Technology
@@ -172,15 +172,16 @@ position,9,social media editor
 position,10,tech professional
 researchFreq,1,Social Networking Sites (Facebook)
 researchFreq,2,Microblogs (Twitter)
-researchFreq,3,Professional social networking sites (LinkedIn)
+researchFreq,3,Professional Sites (LinkedIn)
 researchFreq,4,Audiovisual Sites (YouTube)
-researchFreq,5,"Live Social Media Video Feeds (Periscope, Facebook Live)"
+researchFreq,5,Live Video (Periscope)
 researchFreq,6,Instant Messaging Apps (WhatsApp)
-researchFreq,7,Crowdsourcing
-researchFreq,8,Crowdsourcing
+researchFreq,7,Blogs by Citizens
+researchFreq,8,Blogs by Journalists
+researchFreq,9,Crowdsourcing
 engageFreq,1,Social Networking Sites (Facebook)
 engageFreq,2,Microblogs (Twitter)
-engageFreq,3,Professional Social Networking Sites (LinkedIn)
+engageFreq,3,Professional Sites (LinkedIn)
 engageFreq,4,Audiovisual Sites (YouTube)
 engageFreq,5,Instant Messaging Apps (WhatsApp)
 engageFreq,6,Crowdsourcing
